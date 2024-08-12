@@ -8,7 +8,7 @@ Last Modified by: Hanyu Wang
 Last Modified time: 2024-05-31 08:04:13
 """
 
-from .blif import *
+from .network.blif import *
 from .blifReader import *
 from .blifWriter import *
 

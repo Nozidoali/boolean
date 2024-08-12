@@ -8,7 +8,7 @@ Last Modified by: Hanyu Wang
 Last Modified time: 2024-05-22 14:49:30
 """
 
-from .blif import *
+from .network.blif import *
 
 
 def write_blif_to_string(g: BLIFGraph) -> str:

@@ -9,7 +9,7 @@ Last Modified time: 2023-03-11 20:05:38
 """
 
 import os
-from .blif import *
+from .network.blif import *
 
 
 def read_blif(*args):
