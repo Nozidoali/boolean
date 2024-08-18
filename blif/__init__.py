@@ -1,4 +1,4 @@
-'''
+"""
 Copyright (c) 2024 Hanyu Wang <https://github.com/Nozidoali>
 
 Created Date: Monday, August 12th 2024, 10:04:05 am
@@ -35,8 +35,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
 HISTORY:
 Date      	By	Comments
 ----------	---	----------------------------------------------------------
-'''
-
+"""
 
 from .network import *
 
